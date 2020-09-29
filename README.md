@@ -1,2 +1,7 @@
-# PrimerRepo
-Repo para programacion 1
+# Primer repositorio en GitHub
+
+
+## Autor
+Robert Gutierrez Vasquez
+
+
